@@ -6,6 +6,9 @@ This calculator calculates probability and common statistics of a random variabl
 - Normal
 - Exponential
 
-### Dependencies:
+### Dependencies
 - streamlit
 - pandas
+
+### How to use
+streamlit run pdistribution.py
